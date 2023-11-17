@@ -1,4 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/yanlesin/yanlesin.r-universe.dev
 	branch = HEAD
+[submodule "SEC13Flist"]
+	path = SEC13Flist
+	url = https://github.com/yanlesin/SEC13Flist
+	branch = *release
