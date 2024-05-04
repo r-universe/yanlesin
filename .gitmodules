@@ -5,4 +5,4 @@
 [submodule "SEC13Flist"]
 	path = SEC13Flist
 	url = https://github.com/yanlesin/SEC13Flist
-	branch = v0.3.6
+	branch = v1.0.0
